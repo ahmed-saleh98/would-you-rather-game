@@ -17,7 +17,7 @@ Would You Rather Game<br>
 
 - React
 - store managed by Redux
-- React-bootstrab used for ui
+- React-bootstrap used for ui
 
 ## Author.
 
