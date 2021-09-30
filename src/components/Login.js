@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import LoginForm from "./LoginForm";
 import { Container, Row, Col, Image, Card } from "react-bootstrap";
-
+import img from "../images/react-redux.png";
 class Login extends Component {
   state = {
     loading: false,
@@ -27,7 +27,7 @@ class Login extends Component {
                 <Image
                   className="m-2"
                   width="300px"
-                  src="./react-redux.png"
+                  src={img}
                   alt="react-redux photo"
                 ></Image>
               </Col>
